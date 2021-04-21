@@ -1,0 +1,4 @@
+﻿  main.c
+c:\users\gabon\source\repos\ex3\hw3\main.c(371): warning C4715: 'check_resident': not all control paths return a value
+  LINK : C:\Users\gabon\source\repos\Ex3\Debug\Hw3.exe not found or not built by the last incremental link; performing full link
+  Hw3.vcxproj -> C:\Users\gabon\source\repos\Ex3\Debug\Hw3.exe
